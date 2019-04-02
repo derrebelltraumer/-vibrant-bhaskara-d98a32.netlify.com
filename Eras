@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Collaborations </title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+<body>		<nav>
+    		<ul>
+<li><a href="/">Home</a></li>
+			<li><a href="/Eras">Eras</a></li>
+			<li><a href="/Writer">Writter</a></li>
+			<li><a href="/Contact">Contact</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Eras</h1>
+			<p> <b> Current </b> </p>
+			<p> Jasmine (2018).</p> 
+			<p> Mothership (2017) </p>
+			<p> La,La,La (2016) </p>
+				<em></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:vsideropoulos@yahoo.com">email</a></li>
+        		<li><a href="https://github.com/vsideropoulos">github.com/vsideropoulos</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
